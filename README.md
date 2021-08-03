@@ -3,15 +3,11 @@
 #### 介绍
 使用webpack5.x + babel7.x + react17.x + antd4.x搭建的一个自定义react开发化境
 
-#### 软件架构
-软件架构说明
-
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  `npm install`安装依赖
+2.  `npm run build`打包
 
 #### 使用说明
 
